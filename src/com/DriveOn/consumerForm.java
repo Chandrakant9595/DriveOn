@@ -31,6 +31,8 @@ public class consumerForm {
 	  logout();*/
   }
   
+  //Commit code line
+  
   public static WebDriver driver;
   public static JavascriptExecutor jse;
   public static Robot r;	
